@@ -1,6 +1,8 @@
 # Estudo sobre Vírus
 
-![Banner](images/malware.jpg)
+<p align="center">
+  <img width="801" height="360" src="https://github.com/SolarisGC/StudyingVirus/blob/master/Images/Malware.jpg">
+</p>
 
 > ⚠️ Aviso: Este repositório é destinado apenas para fins educacionais. Não incentive ou utilize o conteúdo fornecido de forma prejudicial. Respeite as leis e a privacidade dos outros.
 
