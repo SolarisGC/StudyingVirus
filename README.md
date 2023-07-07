@@ -1,6 +1,6 @@
 # Estudo sobre Vírus
 
-![Banner](images/malware.png)
+![Banner](images/malware.jpg)
 
 > ⚠️ Aviso: Este repositório é destinado apenas para fins educacionais. Não incentive ou utilize o conteúdo fornecido de forma prejudicial. Respeite as leis e a privacidade dos outros.
 
